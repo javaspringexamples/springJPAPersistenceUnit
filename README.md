@@ -1,5 +1,5 @@
 # springJPAPersistenceUnit
-This example presents the basic concept of using PersistenceContext in Spring.
+This example presents the basic concept of using PersistenceUnit in Spring.
 
 The technologies used are :
  - Spring 4.3.18
